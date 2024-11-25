@@ -1,4 +1,4 @@
-# skote
+# skote resume
 
 ## Project setup
 ```
